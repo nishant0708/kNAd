@@ -1,0 +1,101 @@
+body {background-color: rgb(102, 54, 54);
+    margin: 0;
+    padding: 0;
+  font-family: 'Poppins', sans-serif;
+  }
+  
+  header {
+    background-color: rgb(53, 12, 12);
+    color: white;
+    padding: 20px;
+  }
+  .kratik { text-shadow: 5px 5px 10px rgba(234, 91, 35, 0.485);
+  font-family: 'Concert One', sans-serif;
+    margin: 30;
+    margin-left: 50;
+    color: rgb(234, 91, 35);
+    font-size: 60px;
+    text-align: center;
+    }
+    .kratik:hover{
+        text-shadow: 5px 5px 10px rgba(255, 255, 255, 0.485);
+        color: rgb(255, 255, 255);
+        transition: 1s;
+    }
+  
+  #body  {margin: 1%;
+       background-color: rgb(107, 56, 56);
+       text-align: center;
+   margin-left: 0px;
+   font-size: 21px;
+  }
+  #website{ 
+    text-align: center;
+    font-size: 54px;
+      margin:10px;
+      margin-left: 0;
+      background-color: rgb(107, 56, 56);
+      
+  }
+  #website:hover { font-style: italic;
+   background-color: brown;
+   transition: 1s;
+  }
+  #k{ padding: 1%; 
+    margin-left: 20px;
+    margin-right: 20px;
+      display:  flex ;
+        align-items: center;
+        justify-content: center;
+        gap: 400px;
+      background-color: rgb(107, 56, 56);
+  }
+  .button{ font-size: larger;
+  text-decoration: none;
+  color: black;
+   margin-left: 90;
+   font-weight: 800;
+  margin: 20px;
+      background-color: rgba(255, 0, 0, 0.821);
+    border: 3px solid rgb(41, 16, 16);
+  padding: 15px;
+  border-radius: 10px;
+  
+  }
+  .button:hover{
+      background-color: beige;
+      transition: 2s;
+  }
+  .kra{
+      color: rgb(221, 112, 112);
+  }
+  iframe{ height: 50vw;
+  width: 70vw;
+  align-items: center;
+  margin-left: 15%;
+  
+  }
+  hr{
+      border-color:rgb(13, 6, 6) ;
+  }
+  #contact {
+      background-color: rgb(53, 12, 12);
+      margin-top: 15px;
+  }
+  #details{
+      display: flex;
+      justify-content: space-around;
+      height: 10vh;
+     
+      margin: 0px;
+  }
+  .con{
+      font-size: 18px;
+      color:white;
+      margin-left: 10px;
+  
+  }
+  .qwerty{
+      font-size: 18px;
+      color: white;
+  }
